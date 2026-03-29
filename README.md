@@ -12,4 +12,5 @@ Internet → EC2 → Apache → Website
 - GitHub code deployed 
 
 ## 🌍 Output
-http://<Public IP>
+http://Public IP
+Hello from AWS Admin Project
