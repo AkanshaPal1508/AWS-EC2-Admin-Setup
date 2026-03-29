@@ -9,7 +9,10 @@ Internet → EC2 → Apache → Website
 ## ⚙️ Steps
 - EC2 launched
 - Apache installed
-- GitHub code deployed 
+- GitHub code deployed
+
+## 📊 Monitoring
+- CloudWatch used for CPU tracking
 
 ## 🌍 Output
 http://Public IP
